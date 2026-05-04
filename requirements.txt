@@ -1,0 +1,14 @@
+torch
+torchvision
+timm
+numpy
+pandas
+matplotlib
+seaborn
+pillow
+scikit-learn
+mlflow
+jupyter
+dotenv
+python-dotenv
+roboflow

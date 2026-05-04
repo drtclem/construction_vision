@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+
+.env
+
+
+# Project specific
+data/
+outputs/
+.DS_Store
+*.pt
+*.pth
